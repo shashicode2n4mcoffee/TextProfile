@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap" rel="stylesheet');
+
+p {
+  font-family: 'Sigmar One', cursive;
+  line-height: 5px;
+  background: url('./christian-buehner-DItYlc26zVI-unsplash.jpg');
+  -webkit-background-clip: text;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  background-size: contain;
+  background-position: center;
+}
+
+body {
+  background: black;
+  overflow: hidden;
+}
